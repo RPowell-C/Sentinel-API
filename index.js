@@ -11,7 +11,8 @@ app.listen(PORT, () => {
 
 response.send(status)
 
-app.get("/status", (request, response) => {
+
+app.get("/", (request, response) => {
     const status = {
         "Status": "running"
     };
