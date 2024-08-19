@@ -1,0 +1,16 @@
+{
+    "filename": "hash"
+    "Sentinel-py": "59328910c7bed8d74468e680bb6b0acba4446f02859a4da7e2520170c1b03caf",
+    "package-json": "48e541d4549bcf02a76e51871800261f3740e8bafd3ce9c36d4c4c067a26d975",
+    "package-lock-json": "f7a68ac159d7c6e6f68c480bab19f36104b75e8aa300e22d7abd7e9fa70ba714",
+    "README-md": "7ec7807fd6e2b8c1abc1ed692fa6db8f89177fb66dcb6c51678d96fe50641690",
+    "requirements-txt": "bbce0bff6379f7ad3adcdbf5daf8567720158541f174bd0c0f3cfd4f11fc9f92",
+    "functions": "",
+    "Api-py": "839178867a0d4131b0b3dca83febe686fd7c3f5497ecc365a77f8bba426bde3d",
+    "internalFunctions": "668d4d7b7e03b9d3a100e20de6788ece60c0e46317b5994200549b21c7cc9672",
+    "moderation-py": "926f9a72d5625998647cbd496de8b105a11493db651d5c3db2295cb78147b85a",
+    "UCAL-py": "2e3ac47eba848b41c769db5f082a48ef8b309af99ac4ff840595f7b86acff16b",
+    "filesay-py": "5333dce5a8a6249685453adfff5bf11e7a468cdf2c184fe0f979879528045d46",
+    "internal-py": "55236ca18731963eefbd5aa07b39fa8a01a2caaf5f478d05509a385b82d25c2e",
+    "settings-py": "586bdde62b0c819eaef7ef1a81023b91ec3dbed69ea71c97e12ff4ed406c8335"
+}
